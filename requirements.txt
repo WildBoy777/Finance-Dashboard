@@ -1,4 +1,4 @@
-streamlit==1.29.0
-pandas==2.2.2
-python-dateutil==2.9.0
-openai==1.10.0
+streamlit>=1.35.0,<2
+pandas>=2.2,<3
+python-dateutil==2.9,<3
+openai>=1.40,<2
